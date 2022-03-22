@@ -1,3 +1,22 @@
+## About the webapp
+
+WIP.
+
+This web is currently being used as a model for the actual web that's intended to create. 
+The final work will be released later on, the final code will not be available here for the time being.
+
+When production requirements are met, and site it's launched, link will be posted here.
+
+Thanks for your understanding.
+
+Dev Team
+
+
+
+We are using Php Laravel for this. Documentation on the framework here:
+
+<hr>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
